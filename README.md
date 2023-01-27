@@ -5,6 +5,8 @@ e as suas sinópses, contando também com responsividade para dispositivos de di
 
 ![Captura de tela de 2023-01-27 13-57-22](https://user-images.githubusercontent.com/89361241/215147343-a254fca9-ec2b-415d-8096-f3b35afff943.png)
 
-### Tecnologias utilizadas
+### Tecnologias e frameworks utilizados
 - React / JavaScript
+- React-router-dom
+- Styled-components
 
