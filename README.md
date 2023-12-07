@@ -1,4 +1,4 @@
-# React Popular Movies, aplicação web que te mostra todos os filmes mais assistidos do momento
+# The Popular Movies, aplicação web que te mostra todos os filmes mais assistidos do momento
 
 Nesse projeto desenvolvido em react foi construido uma simples aplicação web onde através de uma API, temos acesso a todos os filmes mais assistidos do momento
 e as suas sinópses, contando também com responsividade para dispositivos de diversos tamanhos e formatos de tela.
